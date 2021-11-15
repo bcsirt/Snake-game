@@ -240,7 +240,7 @@ window.onload = function () {
                 newDirection = "down";
                 break;
             case 32:
-                restart();
+                launch();
                 return;
             default:
                 return;
